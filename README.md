@@ -45,12 +45,12 @@
 	```
 	heroku run bash -a <your heroku app name> -s <dyno plan>
 	```
-		Exemple : 
+Exemple : 
 		```
 		heroku run bash -a myapp -s performance-l
 		```
 
-		Log your activity : 
+10) Eventually log your activity : 
 		```
 		heroku logs --tail -a <your heroku app name>
 		```
