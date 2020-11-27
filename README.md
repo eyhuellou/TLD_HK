@@ -8,6 +8,12 @@ Different kind of job have been built.
 - BULK_LOAD_TO_SF : Used to demonstrate how to cal Bulk API V2 Talend component to upload data from an input table to Salesforce
 - TEST_CHRONO_AND_SENDING : used to demonstrate how to chronometer job processment and send it to Salesofrce through LOG_DURATION subjob
 
+# Prerequisites
+
+- Have a Heroku Postgres Plan with some available Tables.
+- Have Talend Open Studio 7.1
+- For Bulk Job, have a developer edition with a configured connected app (JWT Flow)
+
 # Guide Line to Install and Deploy Talend Jobs into Heroku App
 
 1) With you text editor, Create a property file with the name of you choice with all these value setted properly according to the type of talend job you want to launch
