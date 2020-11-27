@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_9tpgcCT7Eeu6E4uCI8RdzA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_wmXSYCUBEeu6E4uCI8RdzA" comment="" name="DB_PG_Login" prompt="DB_PG_Login?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_wmXSYSUBEeu6E4uCI8RdzA" comment="" name="DB_PG_Server" prompt="DB_PG_Server?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_wmXSYiUBEeu6E4uCI8RdzA" comment="" name="DB_PG_Password" prompt="DB_PG_Password?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_wmXSYyUBEeu6E4uCI8RdzA" comment="" name="DB_PG_AdditionalParams" prompt="DB_PG_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_wmXSZCUBEeu6E4uCI8RdzA" comment="" name="DB_PG_Database" prompt="DB_PG_Database?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_wmXSZSUBEeu6E4uCI8RdzA" comment="" name="DB_PG_Port" prompt="DB_PG_Port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_wmXSZiUBEeu6E4uCI8RdzA" comment="" name="DB_PG_Schema" prompt="DB_PG_Schema?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_wmXSZyUBEeu6E4uCI8RdzA" comment="" name="DB_DESCR" prompt="DB_DESCR?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_wmXSaCUBEeu6E4uCI8RdzA" comment="" name="DB_COMMIT_EVERY" prompt="DB_COMMIT_EVERY?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ck7H4CUCEeu6E4uCI8RdzA" comment="" name="SF_LOGIN" prompt="SF_LOGIN?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ck7H4SUCEeu6E4uCI8RdzA" comment="" name="SF_PWD" prompt="SF_PWD?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ck7H4iUCEeu6E4uCI8RdzA" comment="" name="SF_JWT_ISSUER" prompt="SF_JWT_ISSUER?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ck7H4yUCEeu6E4uCI8RdzA" comment="" name="SF_JWT_AUDIENCE" prompt="SF_JWT_AUDIENCE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ck7H5CUCEeu6E4uCI8RdzA" comment="" name="SF_BULK_FILE_PATH" prompt="SF_BULK_FILE_PATH?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ck7H5SUCEeu6E4uCI8RdzA" comment="" name="TLD_TMP_FILE" prompt="TLD_TMP_FILE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_SzvsQCUDEeu6E4uCI8RdzA" comment="" name="TLD_CONFIG_FILE" prompt="TLD_CONFIG_FILE?" promptNeeded="false" type="id_String" value="TLD_PLAN_0.cfg"/>
+  <contextParameter xmi:id="_hS1MACUDEeu6E4uCI8RdzA" comment="" name="TLD_ROOT_PATH" prompt="TLD_ROOT_PATH?" promptNeeded="false" type="id_String" value="../"/>
+  <contextParameter xmi:id="_dbfxQCUHEeu7lfFW2XdKiQ" comment="" name="SF_LOG_URL" prompt="SF_LOG_URL?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_dbfxQSUHEeu7lfFW2XdKiQ" comment="" name="SF_LOG_CLIENTID" prompt="SF_LOG_CLIENTID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_MfHiMDCYEeuLjJlDZsa68g" comment="" name="SF_LOG_CL_SECRET" prompt="SF_LOG_CL_SECRET?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
